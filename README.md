@@ -9,15 +9,15 @@ How to start:
 
 - the server side
 1) npm install
-   npm start
+2) npm start
 
 - the client side (another terminal)
-2) cd ./frontend
-   npm install
-   npm start
+1) cd ./frontend
+2) npm install
+3) npm start
    
 - browser
-3) http://localhost:3000/
+1) http://localhost:3000/
 
 
 To do:
