@@ -23,4 +23,5 @@ How to start:
 To do:
 
 - code optimization and structuring;
-- improving UI.
+- improving UI;
+- checking how it works with the docker.
